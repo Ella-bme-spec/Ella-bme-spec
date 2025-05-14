@@ -19,5 +19,4 @@ I'm a passionate biomedical engineering student 🧠 with a keen interest in blo
 
 3. **Web3 for Telemedicine**: An ongoing research project investigating the integration of web3 principles, such as decentralization and smart contracts, to enhance the delivery of remote healthcare services.
 
-## Get in Touch
 
